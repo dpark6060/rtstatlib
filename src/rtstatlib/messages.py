@@ -1,3 +1,5 @@
+# messages.py
+
 oneoff = [
     "Adding hamsters to generator wheels",
     "Sending Gnomes to CPU mines",
@@ -87,7 +89,7 @@ verbs = [
     "Computing",
     "Contacting",
     "Detecting",
-    "Deconvolve",
+    "Deconvolving",
     "Depleting",
     "Dicing",
     "Downloading",
@@ -136,8 +138,8 @@ verbs = [
     "Tinkering With",
 ]
 adjectives = [
-    "Spicy"
-    "Vibe"
+    "Spicy",
+    "Vibe",
     "Alternative",
     "Aquatic",
     "Auxiliary",

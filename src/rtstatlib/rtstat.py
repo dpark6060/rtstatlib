@@ -1,8 +1,10 @@
-from rtstatlib.messages import oneoff, verbs, adverbs, nouns, adjectives
+# rtstat.py
+
+from .messages import oneoff, verbs, adverbs, nouns, adjectives
 import random
 import logging
 
-log = logging.getLogger()
+log = logging.getLogger('rtstat')
 log.setLevel(logging.INFO)
 
 def sync_log(a=None):
@@ -37,4 +39,4 @@ def sync_log(a=None):
         message += random.choice(nouns)
 
     log.info(message)
-    print(message)
+    #print(message)

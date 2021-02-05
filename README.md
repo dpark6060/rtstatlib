@@ -1,1 +1,1 @@
-A helpful tool for logging useful runtime status information
+A useful tool to print helpful runtime status messages

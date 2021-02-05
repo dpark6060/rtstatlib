@@ -1,0 +1,3 @@
+[console_scripts]
+rtstatlib = rtstatlib.__main__:main
+

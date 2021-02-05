@@ -1,0 +1,29 @@
+Metadata-Version: 1.2
+Name: rtstatlib
+Version: 1.0.0
+Summary: Runtime Status Library
+Home-page: https://github.com/dpark6060/rtstatlib
+Author: David Parker
+Author-email: dpark6060@gmail.com
+License: MIT
+Project-URL: Changelog, https://github.com/dpark6060/rtstatlib/blob/master/CHANGELOG.rst
+Project-URL: Issue Tracker, https://github.com/dpark6060/rtstatlib/issues
+Description: A useful tool to print helpful runtime status messages
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: Unix
+Classifier: Operating System :: POSIX
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Classifier: Topic :: Utilities
+Requires-Python: >=3.0
